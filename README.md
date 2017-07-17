@@ -1,4 +1,3 @@
-# gitstudy
-This is git Study Project 
-git status
-git checkout -b feature_test_kh
+## 技术实践记录
+
+包括：JS 实践，PHP 实践等项目
