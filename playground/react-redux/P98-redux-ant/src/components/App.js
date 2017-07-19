@@ -1,7 +1,7 @@
 /**
  * Created by kevhu on 2017/7/17.
  */
-import React, { Component } from 'react'
+import React from 'react'
 import { Button } from 'antd'
 import './App.css'
 

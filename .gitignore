@@ -145,3 +145,7 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/Gitstudy.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml

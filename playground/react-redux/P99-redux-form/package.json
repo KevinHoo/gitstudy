@@ -2,6 +2,8 @@
   "name": "P99-redux-form",
   "version": "0.0.1",
   "devDependencies": {
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
     "react-scripts": "^1.0.10"
   },
   "dependencies": {
